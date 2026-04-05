@@ -52,7 +52,7 @@ I'm passionate about solving real-world problems — especially in **agriculture
 | Format | Extension | Use |
 |--------|-----------|-----|
 | **GeoTIFF** | `.tif` | Raster satellite imagery, classification outputs, DEMs |
-| **Shapefile** | `.shp` | Vector AOI boundaries, training samples, field sites |
+| **Shapefile** | `.shp .gpkg` | Vector AOI boundaries, training samples, field sites |
 | **NetCDF** | `.nc` | IMD gridded rainfall & temperature, climate datasets |
 | **CSV / Excel** | `.csv / .xlsx` | IoT sensor data, feature tables, model results |
 
