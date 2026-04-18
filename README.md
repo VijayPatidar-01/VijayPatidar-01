@@ -103,7 +103,7 @@ I'm passionate about solving real-world problems — especially in **agriculture
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-patidar.vijay9973%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patidar.vijay9973@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@Vijay--patidar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vijay-patidar)
+[![GitHub](https://img.shields.io/badge/GitHub-@Vijay--patidar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VijayPatidar-01/)
 
 </div>
 
